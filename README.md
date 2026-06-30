@@ -105,12 +105,6 @@ MERN Stack, MongoDB, React.js, Node.js, Express.js
 
 ---
 
-## 📊 GitHub Stats
-
-![Suchara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudulran&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/suchara-kariyawasam-335994370 
