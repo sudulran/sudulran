@@ -17,18 +17,47 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![R](https://img.shields.io/badge/R-276DC3)
 
-### Data Science
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-black)
+![NumPy](https://img.shields.io/badge/NumPy-blue)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-green)
 
-### Tools
+### Data Analytics & BI
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Excel](https://img.shields.io/badge/Excel-green)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red)
+![SSIS](https://img.shields.io/badge/SSIS-blue)
+![SSAS](https://img.shields.io/badge/SSAS-purple)
+
+### Web Development
+![React](https://img.shields.io/badge/React-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen)
+![Express.js](https://img.shields.io/badge/Express.js-black)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-cyan)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+### Tools & Platforms
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 ![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Figma](https://img.shields.io/badge/Figma-purple)
 
 ---
 
@@ -73,6 +102,12 @@ MERN Stack, MongoDB, React.js, Node.js, Express.js
 - Deep Learning
 - Data Engineering
 - MLOps
+
+---
+
+## 📊 GitHub Stats
+
+![Suchara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudulran&show_icons=true)
 
 ---
 
